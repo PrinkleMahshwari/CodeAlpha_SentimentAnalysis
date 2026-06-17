@@ -187,16 +187,6 @@ Possible future improvements for this project include:
 
 ---
 
-## 🎥 LinkedIn Project Demonstration
-
-As part of the CodeAlpha Internship requirements, a project explanation video will be published on LinkedIn.
-
-**Status:** ⏳ Pending
-
-**LinkedIn Post Link:** To be added after publication.
-
----
-
 ## ⭐ Internship Progress
 
 | Task                      | Status      |
@@ -221,7 +211,6 @@ This project was developed for educational purposes and as part of the CodeAlpha
 BS Software Engineering Student | Data Analytics Intern
 
 * GitHub: [PrinkleMahshwari](https://github.com/PrinkleMahshwari)
-* LinkedIn: Link to be added
 * Project: **CodeAlpha_SentimentAnalysis**
 * Internship: **CodeAlpha Data Analytics Internship**
 
